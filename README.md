@@ -2,7 +2,7 @@
 
 #Description:
 
-PSscript-WinServiceOperation script it's great method can help you to control Windows services via Command Line or GUI no matter locally/remotely or deal with one server/service or many, also it has many different options can support you to let manage Windows services more easy such as filter output to get require information about a servcie by display options feature, as it usefully to run required services before start needed one. it included more to get you enjoy to deal with services instead of keep it last priority.
+PSscript-WinServiceOperation script it's great method can help you to control Windows services via Command Line or GUI no matter locally/remotely or deal with one server/service or many, also it has many different options can support you to let manage Windows services more easy such as filter output to get require information about a service by display options feature, as it usefully to run required services before start needed one. it included more to get you enjoy to deal with services instead of keep it last priority.
 
 
 #Prerequisite:
