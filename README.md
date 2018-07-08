@@ -6,6 +6,7 @@ PSscript-WinServiceOperation script it's great method can help you to control Wi
 
 
 #Prerequisite:
+
 - Open PowerShell as administrator.
 - PS verion should be 3 or above.
   You can verify PS version by command "$PSVersionTable".
